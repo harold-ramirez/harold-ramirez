@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a last semester student in Software Engineering at Univalle - Bolivia.<br>I have knowledge on Requirements Engineering, Database Design, Frontend - Backend Development, Quality Assurance.<br>I have worked on multiple Web and Mobile Fullstack projects.<br>I’m currently open for a new job opportunity, this is MY RESUME.
+:school: I'm currently a last semester student in Software Engineering at Univalle - Bolivia.<br>:nerd_face: I have knowledge on Requirements Engineering, Database Design, Frontend - Backend Development, Quality Assurance.<br>:computer: I have worked on multiple Web and Mobile Fullstack projects.<br>:technologist: I’m currently open for a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1_WY7_FF14ITNjzUd8WH5JdgrD30B8in6/view?usp=sharing).
 
 
 ## 🌐 Socials:
